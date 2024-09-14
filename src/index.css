@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html,body{
+  margin: 0 !important;
+  padding: 0 !important;
+  min-height: 100vh;
+  min-width: 100vw;
+}
